@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1024" width="1024" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <marker id="Arrow2Lend" refY="0.0" refX="0.0" orient="auto">
+   <path id="path11552" stroke-linejoin="round" d="M8.7186,4.0337l-10.926-4.0177,10.926-4.0177c-1.7455,2.3721-1.7355,5.6174,0,8.0354z" fill-rule="evenodd" transform="scale(1.1) rotate(180) translate(1,0)" stroke-width="0.62500000"/>
+  </marker>
+  <linearGradient id="linearGradient10741">
+   <stop id="stop10743" stop-color="#ffe000" offset="0"/>
+   <stop id="stop10745" stop-color="#ff9300" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient10775" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="954.26" cx="512.02" gradientTransform="matrix(0.86272982,0,0,0.61975035,76.07231,308.51471)" r="131.58"/>
+  <radialGradient id="radialGradient10777" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="902.82" cx="289.49" gradientTransform="matrix(0.86272982,0,0,0.81037289,76.07231,123.91789)" r="136.95"/>
+  <radialGradient id="radialGradient10779" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="762.92" cx="149.6" gradientTransform="matrix(0.86272982,0,0,0.91850254,76.07231,34.099249)" r="128.64"/>
+  <radialGradient id="radialGradient10781" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="902.81" cx="734.56" gradientTransform="matrix(0.86272982,0,0,0.81037295,76.07231,123.91752)" r="136.95"/>
+  <radialGradient id="radialGradient10783" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="762.92" cx="874.45" gradientTransform="matrix(0.86272982,0,0,0.91850262,76.07231,34.09923)" r="128.64"/>
+  <radialGradient id="radialGradient10785" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="540.38" cx="925.89" gradientTransform="matrix(0.86272982,0,0,1.2009725,76.07231,-106.13176)" r="94.523"/>
+  <radialGradient id="radialGradient10787" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="177.91" cx="289.44" gradientTransform="matrix(0.86272982,0,0,0.8103713,76.07231,85.964207)" r="136.96"/>
+  <radialGradient id="radialGradient10789" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="317.8" cx="149.55" gradientTransform="matrix(0.86272982,0,0,0.91850237,76.07231,58.924441)" r="128.64"/>
+  <radialGradient id="radialGradient10791" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="540.34" cx="98.109" gradientTransform="matrix(0.86272982,0,0,1.2009709,76.07231,-106.11447)" r="94.524"/>
+  <radialGradient id="radialGradient10795" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="177.91" cx="734.51" gradientTransform="matrix(0.86272982,0,0,0.81037298,76.07231,85.96411)" r="136.95"/>
+  <radialGradient id="radialGradient10797" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="317.81" cx="874.4" gradientTransform="matrix(0.86272982,0,0,0.91850254,76.07231,58.923909)" r="128.64"/>
+  <linearGradient id="linearGradient10741-0">
+   <stop id="stop10743-0" stop-color="#ff620c" offset="0"/>
+   <stop id="stop10745-6" stop-color="#ff4100" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient11296" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="954.26" cx="512.02" gradientTransform="matrix(0.53156271,0,0,0.38185324,244.36174,400.94717)" r="131.58"/>
+  <radialGradient id="radialGradient11299" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="902.82" cx="289.49" gradientTransform="matrix(0.53156271,0,0,0.49930349,244.36174,287.2096)" r="136.95"/>
+  <radialGradient id="radialGradient11302" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="762.92" cx="149.6" gradientTransform="matrix(0.53156271,0,0,0.56592654,244.36174,231.86871)" r="128.64"/>
+  <radialGradient id="radialGradient11305" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="902.81" cx="734.56" gradientTransform="matrix(0.53156271,0,0,0.49930354,244.36174,287.20938)" r="136.95"/>
+  <radialGradient id="radialGradient11308" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="762.92" cx="874.45" gradientTransform="matrix(0.53156271,0,0,0.56592659,244.36174,231.8687)" r="128.64"/>
+  <radialGradient id="radialGradient11311" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="540.38" cx="925.89" gradientTransform="matrix(0.53156271,0,0,0.73996772,244.36174,145.46672)" r="94.523"/>
+  <radialGradient id="radialGradient11314" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="177.91" cx="289.44" gradientTransform="matrix(0.53156271,0,0,0.49930251,244.36174,263.8248)" r="136.96"/>
+  <radialGradient id="radialGradient11317" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="317.8" cx="149.55" gradientTransform="matrix(0.53156271,0,0,0.56592643,244.36174,247.16452)" r="128.64"/>
+  <radialGradient id="radialGradient11320" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="540.34" cx="98.109" gradientTransform="matrix(0.53156271,0,0,0.73996671,244.36174,145.47738)" r="94.524"/>
+  <radialGradient id="radialGradient11323" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="126.47" cx="511.98" gradientTransform="matrix(0.53156271,0,0,0.38185353,244.36174,277.01907)" r="131.58"/>
+  <radialGradient id="radialGradient11326" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="177.91" cx="734.51" gradientTransform="matrix(0.53156271,0,0,0.49930354,244.36174,263.82475)" r="136.95"/>
+  <radialGradient id="radialGradient11329" xlink:href="#linearGradient10741-0" gradientUnits="userSpaceOnUse" cy="317.81" cx="874.4" gradientTransform="matrix(0.53156271,0,0,0.56592654,244.36174,247.16419)" r="128.64"/>
+  <radialGradient id="radialGradient12805" xlink:href="#linearGradient10741" gradientUnits="userSpaceOnUse" cy="126.47" cx="511.98" gradientTransform="matrix(-0.86272982,0,0,0.61975083,959.47307,107.37857)" r="131.58"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0,-28.3622)">
+  <g id="CMchord" transform="translate(2e-5,0)">
+   <path id="Cchord_pie" d="m631.29,119.15-39.707,148.15c-48.364-12.959-99.274-12.967-147.64-0.008l-39.69-148.13c74.37-19.927,152.67-19.929,227.04-0.002z" fill="url(#radialGradient12805)"/>
+   <text id="text10799" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="203.24779" x="493.5162" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="203.24779" x="493.5162" font-family="TeX Gyre Adventor">C</tspan></text>
+  </g>
+  <g id="FMchord">
+   <path id="path9967-9-1-4" d="m404.25,119.15,39.689,148.16c-48.364,12.959-92.457,38.407-127.86,73.812l-108.46-108.45c54.443-54.443,122.25-93.594,196.62-113.52z" fill="url(#radialGradient10787)"/>
+   <text id="text10799-4" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="253.98795" x="313.28531" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="253.98795" x="313.28531" font-family="TeX Gyre Adventor">F</tspan></text>
+  </g>
+  <g id="BbMChord">
+   <path id="path9967-9-0" d="M207.63,232.67,316.08,341.13c-35.41,35.41-60.87,79.49-73.83,127.86l-148.14-39.7c19.929-74.37,59.079-142.18,113.52-196.62z" fill="url(#radialGradient10789)"/>
+   <text id="text10799-4-4" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="377.71979" x="177.05208" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-1" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="377.71979" x="177.05208" font-family="TeX Gyre Adventor">B♭</tspan></text>
+  </g>
+  <g id="EbMchord">
+   <path id="path9967-2" d="m94.11,429.29,148.15,39.707c-12.959,48.364-12.967,99.274-0.008,147.64l-148.14,39.69c-19.928-74.37-19.929-152.67-0.001-227.04z" fill="url(#radialGradient10791)"/>
+   <text id="text10799-4-4-2" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="565.12714" x="132.27855" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-1-5" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="565.12714" x="132.27855" font-family="TeX Gyre Adventor">E♭</tspan></text>
+  </g>
+  <g id="AbMchord">
+   <path id="path9967-2-7" d="M207.67,853,316.12,744.54c-35.4-35.41-60.87-79.49-73.82-127.86l-148.15,39.7c19.927,74.37,59.076,142.18,113.52,196.62z" fill="url(#radialGradient10779)"/>
+   <text id="text10799-4-4-2-9" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="754.51801" x="172.83385" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-1-5-9" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="754.51801" x="172.83385" font-family="TeX Gyre Adventor">A♭</tspan></text>
+  </g>
+  <g id="DbMchord">
+   <path id="path9967-9-0-5" d="m404.29,966.52,39.688-148.16c-48.36-12.96-92.45-38.4-127.86-73.81l-108.45,108.45c54.443,54.443,122.25,93.594,196.62,113.52z" fill="url(#radialGradient10777)"/>
+   <text id="text10799-4-4-2-9-2" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="871.84692" x="249.03818" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-1-5-9-5" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="871.84692" x="249.03818" font-family="TeX Gyre Adventor">D♭/C♯</tspan></text>
+  </g>
+  <g id="GMchord">
+   <path id="Gchord_pie" d="m631.29,119.15-39.688,148.16c48.364,12.959,92.457,38.407,127.86,73.812l108.45-108.44c-54.44-54.45-122.25-93.6-196.62-113.53z" fill="url(#radialGradient10795)"/>
+   <text id="text10799-4-2" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="249.41013" x="679.0473" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-0" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="249.41013" x="679.0473" font-family="TeX Gyre Adventor">G</tspan></text>
+  </g>
+  <g id="DMchord">
+   <path id="Dchord_pie" d="M827.91,232.68,719.46,341.14c35.405,35.405,60.867,79.49,73.826,127.85l148.14-39.69c-19.93-74.37-59.08-142.18-113.52-196.62z" fill="url(#radialGradient10797)"/>
+   <text id="text10799-4-2-7" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="378.77631" x="811.92029" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-0-2" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="378.77631" x="811.92029" font-family="TeX Gyre Adventor">D</tspan></text>
+  </g>
+  <g id="AMchord">
+   <path id="Achord_pie" d="M941.47,656.37,793.32,616.67c12.959-48.364,12.967-99.274,0.008-147.64l148.14-39.695c19.927,74.37,19.929,152.67,0,227.04z" fill="url(#radialGradient10785)"/>
+   <text id="text10799-4-2-7-0" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="574.19183" x="852.15802" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-0-2-0" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="574.19183" x="852.15802" font-family="TeX Gyre Adventor">A</tspan></text>
+  </g>
+  <g id="EMchord">
+   <path id="path9967-9-6" d="M827.95,853,719.5,744.54c35.405-35.405,60.867-79.49,73.826-127.85l148.14,39.695c-19.927,74.37-59.076,142.18-113.52,196.62z" fill="url(#radialGradient10783)"/>
+   <text id="text10799-4-2-7-0-1" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="756.32416" x="807.27356" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-0-2-0-5" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="756.32416" x="807.27356" font-family="TeX Gyre Adventor">E</tspan></text>
+  </g>
+  <g id="CbMchord">
+   <path id="path9967-9-1-47" d="M631.33,966.52,591.64,818.36c48.364-12.959,92.457-38.407,127.86-73.812l108.45,108.44c-54.44,54.45-122.25,93.6-196.62,113.53z" fill="url(#radialGradient10781)"/>
+   <text id="text10799-4-2-7-0-1-3" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="873.11249" x="633.63757" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-6-0-2-0-5-5" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="873.11249" x="633.63757" font-family="TeX Gyre Adventor">C♭/B</tspan></text>
+  </g>
+  <text id="text11013" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="34.50919342px" font-style="normal" y="179.22087" x="82.574417" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan11015" font-size="129.4094696px" y="179.22087" x="82.574417">♭</tspan></text>
+  <text id="text11017" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="34.50919342px" font-style="normal" y="181.08199" x="900.04584" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan11019" font-size="129.4094696px" y="181.08199" x="900.04584">♯</tspan></text>
+  <g id="GbMchord">
+   <path id="path9967-9-1-4-1" d="M631.33,966.52,591.62,818.37c-48.364,12.959-99.274,12.967-147.64,0.008l-39.695,148.14c74.37,19.927,152.67,19.929,227.04,0z" fill="url(#radialGradient10775)"/>
+   <text id="text11021" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="60px" font-stretch="normal" line-height="125%" font-style="normal" y="933.95099" x="436.61469" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11023" font-weight="normal" font-size="60px" font-style="normal" font-stretch="normal" font-variant="normal" y="933.95099" x="436.61469" font-family="TeX Gyre Adventor">G♭/F♯</tspan></text>
+  </g>
+  <g id="amchord">
+   <path id="path9967-9-1-7" d="m446.57,284.27,24.465,91.282c29.799-7.9847,61.167-7.9895,90.966-0.005l24.457-91.277c-45.823-12.278-94.066-12.279-139.89-0.00087z" fill="url(#radialGradient11323)"/>
+   <text id="text10799-2" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="336.37109" x="503.3999" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-1" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="336.37109" x="503.3999" font-family="TeX Gyre Adventor">a</tspan></text>
+  </g>
+  <g id="emchord">
+   <path id="path9967-9-2" d="m586.45,284.27-24.454,91.285c29.799,7.9847,56.967,23.664,78.781,45.479l66.819-66.819c-33.544-33.544-75.324-57.667-121.15-69.945z" fill="url(#radialGradient11326)"/>
+   <text id="text10799-2-4" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="40px" font-stretch="normal" line-height="125%" font-style="normal" y="366.86447" x="616.99701" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-1-1" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="366.86447" x="616.99701" font-family="TeX Gyre Adventor">e</tspan></text>
+  </g>
+  <g id="bmchord">
+   <path id="path9967-6" d="m707.6,354.22-66.82,66.829c21.815,21.815,37.502,48.977,45.487,78.776l91.277-24.457c-12.278-45.823-36.399-87.603-69.944-121.15z" fill="url(#radialGradient11329)"/>
+   <text id="text10799-2-4-2" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="40px" font-stretch="normal" line-height="125%" font-style="normal" y="444.94986" x="697.54425" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-1-1-4" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="444.94986" x="697.54425" font-family="TeX Gyre Adventor">b</tspan></text>
+  </g>
+  <g id="g12891">
+   <g id="fsmchord">
+    <path id="path9967-0-5" fill="url(#radialGradient11311)" d="m777.57,615.28-91.282-24.465c7.9847-29.799,7.9895-61.167,0.005-90.966l91.277-24.457c12.278,45.823,12.279,94.066,0,139.89z"/>
+    <text id="text10799-2-4-2-7" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="557.74426" x="728.98828" font-family="TeX Gyre Adventor" line-height="125%" fill="#000000"><tspan id="tspan10801-1-1-4-6" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="557.74426" x="728.98828" font-family="TeX Gyre Adventor">f♯</tspan></text>
+   </g>
+  </g>
+  <g id="asmchord">
+   <path id="path9967-9-6-4" d="M707.62,736.43,640.8,669.6c21.815-21.815,37.502-48.977,45.487-78.776l91.277,24.457c-12.278,45.823-36.399,87.603-69.943,121.15z" fill="url(#radialGradient11308)"/>
+   <text id="text10799-2-4-2-7-0" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="671.51752" x="692.5827" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan10801-1-1-4-6-4" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="671.51752" x="692.5827" font-family="TeX Gyre Adventor">a♯</tspan></text>
+  </g>
+  <g id="abmchord">
+   <path id="path9967-9-1-47-4" d="m586.48,806.37-24.454-91.285c29.799-7.9847,56.967-23.664,78.781-45.479l66.819,66.819c-33.544,33.544-75.324,57.667-121.15,69.945z" fill="url(#radialGradient11305)"/>
+   <text id="text11436" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="40px" font-stretch="normal" line-height="125%" font-style="normal" y="747.85712" x="578.50763" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438" y="747.85712" x="578.50763">a♭/g♯</tspan></text>
+  </g>
+  <g id="ebmchord">
+   <path id="path9967-9-1-4-1-1" d="m586.48,806.37-24.465-91.282c-29.799,7.9847-61.167,7.9895-90.966,0.005l-24.458,91.276c45.823,12.278,94.066,12.279,139.89,0z" fill="url(#radialGradient11296)"/>
+   <text id="text11436-4" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="40px" font-stretch="normal" line-height="125%" font-style="normal" y="780.40167" x="462.7179" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438-2" y="780.40167" x="462.7179">e♭/d♯</tspan></text>
+  </g>
+  <g id="bbmchord">
+   <path id="path9967-9-0-5-9" d="m446.59,806.37,24.454-91.285c-29.799-7.9847-56.967-23.664-78.781-45.479l-66.819,66.819c33.544,33.544,75.324,57.667,121.15,69.945z" fill="url(#radialGradient11299)"/>
+   <text id="text11436-4-7" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="40px" font-stretch="normal" line-height="125%" font-style="normal" y="749.16498" x="350.86044" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438-2-8" y="749.16498" x="350.86044">b♭/a♯</tspan></text>
+  </g>
+  <g id="fmchord">
+   <path id="path9967-2-7-0" d="m325.45,736.43,66.82-66.829c-21.82-21.82-37.51-48.98-45.49-78.78l-91.277,24.457c12.278,45.823,36.399,87.603,69.943,121.15z" fill="url(#radialGradient11302)"/>
+   <text id="text11436-4-5" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="666.63934" x="320.59766" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438-2-4" y="666.63934" x="320.59766">f</tspan></text>
+  </g>
+  <g id="cmchord">
+   <path id="path9967-2-0" d="m255.48,475.36,91.282,24.465c-7.9847,29.799-7.9895,61.167-0.005,90.966l-91.276,24.457c-12.278-45.823-12.279-94.066-0.001-139.89z" fill="url(#radialGradient11320)"/>
+   <text id="text11436-4-0" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="561.7121" x="285.21521" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438-2-7" y="561.7121" x="285.21521">c</tspan></text>
+  </g>
+  <g id="gmchord">
+   <path id="path9967-9-0-54" d="m325.42,354.22,66.82,66.829c-21.815,21.815-37.502,48.977-45.487,78.776l-91.277-24.457c12.278-45.823,36.399-87.603,69.943-121.15z" fill="url(#radialGradient11317)"/>
+   <text id="text11436-4-0-1" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="447.37494" x="310.72046" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11438-2-7-3" y="447.37494" x="310.72046">g</tspan></text>
+  </g>
+  <g id="dmchord">
+   <path id="path9967-9-1-4-3" d="m446.56,284.27,24.454,91.285c-29.799,7.9847-56.967,23.664-78.781,45.479l-66.819-66.819c33.544-33.544,75.324-57.667,121.15-69.945z" fill="url(#radialGradient11314)"/>
+   <text id="text11521" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="normal" font-size="40px" font-style="normal" font-stretch="normal" font-variant="normal" y="369.63098" x="393.29419" font-family="TeX Gyre Adventor" xml:space="preserve" fill="#000000"><tspan id="tspan11523" y="369.63098" x="393.29419">d</tspan></text>
+  </g>
+  <path id="path11525" stroke-linejoin="miter" style="marker-end:url(#Arrow2Lend);" d="M358.23,76.852c-144.34,30.248-271.31,170.74-305.02,306.24" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3.10582733" fill="none"/>
+  <path id="path11525-0" stroke-linejoin="miter" style="marker-end:url(#Arrow2Lend);" d="m681.64,78.01c144.34,30.248,271.3,170.74,305.02,306.24" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3.10582733" fill="none"/>
+ </g>
+</svg>
