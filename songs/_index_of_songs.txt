@@ -1,6 +1,7 @@
 Bourbon Street Parade,bourbon_street_parade.abc
 Glory Halleluja,glory_halleluja.abc
 Just a closer walk with thee,closer_walk.abc
+Mercedes Benz,mercedes_benz.abc
 Oh when the saints,oh_when_the_saints.abc
 Second line Limbo,limbo_rock.abc
 Sheik of Araby,sheik_of_araby.abc
