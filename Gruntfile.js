@@ -50,32 +50,32 @@ module.exports = function(grunt) {
             all: ['test/tests.html']
 
         },
-    connect: {
-      server: {
-        options: {
-          base: '',
-          port: 9999
-        }
-      }
-    },
-
-    'saucelabs-qunit': {
-      all: {
-        options: {
-          urls: [
-            'http://127.0.0.1:9999/index.html'
-          ],
-          browsers: browsers,
-          build: process.env.TRAVIS_JOB_ID,
-          testname: 'qunit tests',
-          throttled: 3,
-          sauceConfig: {
-            'video-upload-on-pass': false
+        connect: {
+          server: {
+            options: {
+              base: '',
+              port: 9999
+            }
           }
-        }
-      }
-    },
-    watch: {}
+        },
+
+        'saucelabs-qunit': {
+          all: {
+            options: {
+              urls: [
+                'http://127.0.0.1:9999/index.html'
+              ],
+              browsers: browsers,
+              build: process.env.TRAVIS_JOB_ID,
+              testname: 'qunit tests',
+              throttled: 3,
+              sauceConfig: {
+                'video-upload-on-pass': false
+              }
+            }
+          }
+        },
+        watch: {},
 
         copy: {
             build: {
