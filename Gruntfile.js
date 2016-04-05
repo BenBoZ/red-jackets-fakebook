@@ -1,5 +1,25 @@
 module.exports = function(grunt) {
 
+    var browsers = [{
+      browserName: 'firefox',
+      version: '19',
+      platform: 'XP'
+    }, {
+      browserName: 'googlechrome',
+      platform: 'XP'
+    }, {
+      browserName: 'googlechrome',
+      platform: 'linux'
+    }, {
+      browserName: 'internet explorer',
+      platform: 'WIN8',
+      version: '10'
+    }, {
+      browserName: 'internet explorer',
+      platform: 'VISTA',
+      version: '9'
+    }];
+
     // Project configuration.
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
@@ -30,6 +50,32 @@ module.exports = function(grunt) {
             all: ['test/tests.html']
 
         },
+    connect: {
+      server: {
+        options: {
+          base: '',
+          port: 9999
+        }
+      }
+    },
+
+    'saucelabs-qunit': {
+      all: {
+        options: {
+          urls: [
+            'http://127.0.0.1:9999/index.html'
+          ],
+          browsers: browsers,
+          build: process.env.TRAVIS_JOB_ID,
+          testname: 'qunit tests',
+          throttled: 3,
+          sauceConfig: {
+            'video-upload-on-pass': false
+          }
+        }
+      }
+    },
+    watch: {}
 
         copy: {
             build: {
@@ -189,6 +235,8 @@ module.exports = function(grunt) {
     // Load the plugin that provides the "jshint" task.
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-qunit');
+    grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-saucelabs');
     grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-uglify');
@@ -235,6 +283,7 @@ module.exports = function(grunt) {
     // Default task(s).
     grunt.registerTask('images', ['responsive_images']);
     grunt.registerTask('test', ['unusedimages', 'jshint', 'qunit']);
+    grunt.registerTask('saucetest', ['connect', 'saucelabs-qunit']);
     grunt.registerTask('export', ['clean:build', 'copy:build']);
     grunt.registerTask('scripts', ['strip_code', 'uglify', 'clean:scripts']);
     grunt.registerTask('stylesheets', ['cssmin', 'clean:stylesheets', 'copy:fonts']);
@@ -243,5 +292,6 @@ module.exports = function(grunt) {
     grunt.registerTask('zip', ['clean:zip', 'compress'])
 
     grunt.registerTask('default', ['test', 'export', 'scripts', 'stylesheets', 'svgs', 'images', 'html', 'zip']);
+    grunt.registerTask('travis', ['saucetest','test']);
 
 };
