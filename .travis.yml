@@ -1,9 +1,8 @@
 language: node_js
-env:
-    - SAUCE_USERNAME=benboz
-    - SAUCE_ACCES_KEY=ea6c52ee-edf8-44da-ad80-f2d2925d8057
 addons:
-    sauce_connect: true
+    sauce_connect:
+        username: "benboz"
+        access_key: "ea6c52ee-edf8-44da-ad80-f2d2925d8057"
 node_js:
   - "5.9.0"
 before_install: 
