@@ -1,9 +1,13 @@
 language: node_js
+addons:
+    sauce_connect:
+        username: "benboz"
+        access_key: "ea6c52ee-edf8-44da-ad80-f2d2925d8057"
 node_js:
   - "5.9.0"
 before_install: 
     npm install -g grunt-cli
 install: 
     npm install
-before_script: 
-    grunt --force
+script:
+    grunt travis
